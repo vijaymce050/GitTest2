@@ -31,6 +31,7 @@ public class GitTest2Class {
 	@Test
 	public void test3() {
 		System.out.println("This is method test3");
+		System.out.println("This is added in Github");
 	}
 	
 	
