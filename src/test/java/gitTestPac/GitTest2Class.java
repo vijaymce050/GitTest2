@@ -28,5 +28,10 @@ public class GitTest2Class {
 		driver.quit();
 	}
 	
+	@Test
+	public void test3() {
+		System.out.println("This is method test3");
+	}
+	
 	
 }
